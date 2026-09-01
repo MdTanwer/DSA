@@ -8,7 +8,7 @@
 6. In-place Linked List Reversal
 7. Binary Search (+ Binary Search on Answer)
 8. Top K Elements (Heap)
-9. K-way Merge
+9. K-way Merge   
 10. Backtracking
 11. DFS (Trees & Graphs)
 12. BFS (Trees & Graphs)
@@ -26,7 +26,11 @@
 24. Matrix Traversal
 25. Recursion / Divide & Conquer
 
+
+
 ## Order to Learn Them
+
+
 
 ### Phase 1 — Foundations
 
